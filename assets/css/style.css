@@ -1597,3 +1597,23 @@ button.swiper-pagination-bullet {
   line-height: 16px;
   border-radius: 5px;
 }
+
+.footer {
+  min-height: 285px;
+  padding-top: 105px;
+}
+
+.footer__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.footer__nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
